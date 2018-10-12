@@ -1,0 +1,42 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "Alexa Skill",
+            "intents": [{
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloIntent",
+                    "slots": [],
+                    "samples": [
+                        "Hi",
+                        "Hey",
+                        "Hello",
+                        "Namaste"
+                    ]
+                },
+                {
+                    "name": "DisplayGreetings",
+                    "slots": [{
+                        "name": "Harry",
+                        "type": "AMAZON.Person"
+                    }],
+                    "samples": [
+                        "I am {Harry}",
+                        "My name is {Harry} "
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
