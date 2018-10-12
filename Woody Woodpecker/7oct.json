@@ -1,0 +1,51 @@
+[{
+  "uid": "urn:uuid:5efb47e8-f057-4dc8-a85d-70d300c8fd87",
+  "updateDate": "2018-10-07T00:00:00.0Z",
+  "titleText": "Hey! It is the new week, This time we came with some wise advise, Here is your advice one",
+  "mainText": "I think togetherness is a very important ingredient to family life. ",
+  "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+}]
+
+[{
+    "uid": "urn:uuid:db87eebb-c976-4959-963b-f8697eaa2b6a",
+    "updateDate": "2018-10-07T00:00:00.0Z",
+    "titleText": "Here is your advice seconde",
+    "mainText": "Constant togetherness is fine - but only for Siamese twins. ",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }]
+  [{
+    "uid": "urn:uuid:2d1bbccb-71f2-498f-9ee1-580dadfba2f6",
+    "updateDate": "2018-10-07T00:00:00.0Z",
+    "titleText": "Here is your advice third",
+    "mainText": "Constant togetherness is fine - but only for Siamese twins.",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }]
+  [{
+    "uid": "urn:uuid:8cda7757-27bd-4193-aaff-0533f854f6dd",
+    "updateDate": "2018-10-07T00:00:00.0Z",
+    "titleText": "Here is your advice four",
+    "mainText": "1We must all hang together, or assuredly we shall all hang separately.",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }]
+  [{
+    "uid": "urn:uuid:b0d4f377-e371-44c0-9621-1cf3886b8d0f",
+    "updateDate": "2018-10-07T00:00:00.0Z",
+    "titleText": "Here is your advice four",
+    "mainText": "People who work together will win, whether it be against complex football defenses, or the problems of modern society.",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }]
+  [{
+    "uid": "037009aa-e0b0-401c-9e6c-6dbcfbab3d30",
+    "updateDate": "2018-10-07T00:00:00.0Z",
+    "titleText": "Here is your advice five",
+    "mainText": "Coming together is a beginning; keeping together is progress; working together is success.",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }]
+  [{
+    "uid": "urn:uuid:c97305fb-6c03-4f6a-a307-52d5ded784a9",
+    "updateDate": "2018-10-07T00:00:00.0Z",
+    "titleText": "Here is your advice five",
+    "mainText": "A dream you dream alone is only a dream. A dream you dream together is reality.",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }]
+  
